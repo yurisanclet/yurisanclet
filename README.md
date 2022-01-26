@@ -1,5 +1,5 @@
 # Olá, eu sou Yuri Santos!
-##Seja bem vindo ao meu perfil no Github.👋
+## Seja bem vindo ao meu perfil no Github.👋
 ### * Sou graduando em Sistemas de Informação no CEFET-RJ | 2° Período
 ### * Atualmente desempregado, mas em busca do primeiro emprego na área de TI.
 <!--
