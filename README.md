@@ -1,6 +1,7 @@
 # Olá, eu me chamo Yuri!
 ## Seja bem vindo ao meu perfil no Github.👋
 ## Atualmente sou graduando em Sistemas de Informação no CEFET/RJ.
+## As tecnologias que eu ando estudando são HTML, CSS e JavaScript.
 <!--
 **yurisanclet/yurisanclet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
