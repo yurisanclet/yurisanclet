@@ -1,6 +1,7 @@
 # Olá, eu me chamo Yuri!
 ##Seja bem vindo ao meu perfil no Github.👋
 ### * Sou graduando em Sistemas de Informação no CEFET-RJ | 2° Período
+### * Atualmente desempregado, mas em busca do primeiro emprego na área de TI.
 <!--
 **yurisanclet/yurisanclet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
